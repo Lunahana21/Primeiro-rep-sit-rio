@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8">
+   <title>Proibições na Coréia do Norte</title>
+   <link rel="stylesheet" href="style.css">
+ </head>
+ <body>
+   <header>
+     <h1 id="title">15 coisas que são proibidas na Coreia do Norte</h1>
+     <img src="proibido.jpg" alt="Kim_Jong-un" center>
+   </header>
+  <section>
+     <header>
+       <h3 class="info">"No país mais fechado do mundo não se pode usar calça jeans, celebrar o Natal ou conversar com estrangeiros"</h3>
+     </header>
+     <article class="bord">
+       <header>
+         <p style="color: #08ef7a;">A <a href="https://pt.wikipedia.org/wiki/Coreia_do_Norte" target="_blank" style="color: #00d9f5;">Coreia do Norte</a> é governada de forma brutal pelo ditador <a href="https://pt.wikipedia.org/wiki/Kim_Jong-un" target="_blank" style="color: #00d9f5;">Kim Jong-un</a>, que não hesita em prender ou condenar à morte cidadãos que não seguem à risca todas as regras do regime. A rotina da população inclui a adoração aos líderes, que devem ser reverenciados diversas vezes ao dia e sempre que se passar em frente a uma das inúmeras imagens da <a href="https://veja.abril.com.br/mundo/quem-e-quem-na-familia-kim-o-nucleo-de-poder-da-coreia-do-norte/" target="_blank" style="color: #00d9f5;">família Kim</a>. </p>
+         <p style="color: #08ef7a;">O país mais fechado do mundo não permite qualquer questionamento político, que é visto como traição e punido com a morte. Para assegurar o controle do povo, a Coreia do Norte filtra todas as informações do exterior e restringe ao máximo as interações entre locais e estrangeiros. </p>
+         <p style="color: #08ef7a;">Algumas coisas vêm mudando. Por exemplo, as mulheres eram proibidas de andar de bicicleta em <a href="https://pt.wikipedia.org/wiki/Pyongyang" target="_blank" style="color: #00d9f5;">Pyongyang</a>, mas desde que Kim Jong-un chegou ao poder, isso passou a ser permitido. As demonstrações de afeto em público até não muito tempo atrás eram inexistentes.  Hoje é possível ver casais que andam de mãos dadas na capital e até mesmo beijos entre namorados. “Há um lugar muito romântico às margens do rio Taedongang, no centro de Pyongyang, em que era comum ver casais se beijando debaixo de um arvoredo”, conta o ex-embaixador do Brasil na Coreia do Norte,<a href="https://veja.abril.com.br/mundo/a-coreia-do-norte-nao-e-comunista-e-uma-seita-religiosa/" target="_blank" style="color: #00d9f5;"> Roberto Colin</a>, que morou quatro anos no país. </p>
+         <p style="color: #08ef7a;">O excesso de proibições e o pesado controle estatal em todos os âmbitos da vida privada e profissional das pessoas, no entanto, são a regra no país. Confira quinze coisas proibidas na Coreia do Norte:</p>
+       </header>
+     </article>
+     <article>
+       <header>
+         <h3 style="color: #97df6b;">1. Roupas justas ou decotadas.</h3>
+         <p style="color: #ffbd5b;">O código de vestimenta do país é bastante conservador e tanto homens como mulheres devem usar roupas recatadas. Mostrar o umbigo em público pode levar à prisão.</p>
+       </header>
+     </article>
+     <article>
+       <header>
+         <h3 style="color: #97df6b;">2. Biquíni.</h3>
+         <p style="color: #ffbd5b;">Nas piscinas e praias, espera-se que as mulheres usem apenas maiôs discretos.</p>
+       </header>
+     </article>
+     <article>
+       <header>
+         <h3 style="color: #97df6b;">3. Calça jeans.</h3>
+         <p style="color: #ffbd5b;">Tido como símbolo do imperialismo americano, o jeans é proibido no país. “É um paradoxo: não usam jeans, mas bebem Coca-Cola”, conta Colin.</p>
+       </header>
+     </article>
+     <article>
+       <header>
+         <h3 style="color: #97df6b;">4. Fotografia.</h3>
+         <p style="color: #ffbd5b;">O governo controla fortemente a imagem do país e, por isso, não se pode fotografar nada sem autorização. Estrangeiros costumam ter equipamento – máquinas e celulares vasculhados ou apreendidos enquanto visitam o país.</p>
+       </header>
+     </article>
+     <article>
+       <header>
+         <h3 style="color: #97df6b;">5. Internet.</h3>
+         <p style="color: #ffbd5b;">Pouquíssimas pessoas da elite militar e do governo têm acesso à internet. O restante do país – incluindo turistas – pode, no máximo, acessar uma intranet totalmente controlada pelo governo.</p>
+       </header>
+     </article>
+     <article>
+       <header>
+         <h3 style="color: #97df6b;">6. Religião.</h3>
+         <p style="color: #ffbd5b;">O país veta todas as religiões e obriga os cidadãos a cultuar os governantes como deuses. <a href="https://veja.abril.com.br/coluna/duvidas-universais/qual-e-a-religiao-da-coreia-do-norte/" target="_blank" style="color: #00d9f5;">Quem for pego rezando ou com uma Bíblia pode ser mandado para os campos de trabalhos forçados ou ser executado.</a></p>
+       </header>
+     </article>
+     <article>
+       <header>
+         <h3 style="color: #97df6b;"> 7. Comemorar o Natal.</h3>
+         <p style="color: #ffbd5b;">Com o veto às religiões, fica também proibido comemorar datas religiosas, como o Natal. Em 2011, a Coreia do Sul irritou seu vizinho ao norte ao <a href="https://veja.abril.com.br/mundo/cinco-coisas-que-enfurecem-o-ditador-kim-jong-un/" target="_blank" style="color: #00d9f5;">montar uma enorme árvore de Natal de 30 metros</a> na fronteira entre os dois países.</p>
+       </header>
+     </article>
+     <article>
+       <header>
+         <h3 style="color: #97df6b;"> 8. Ficar feliz quando o país decreta luto.</h3>
+         <p style="color: #ffbd5b;"> <a href="https://veja.abril.com.br/mundo/hoje-8-de-julho-e-proibido-sorrir-na-coreia-do-norte/" target="_blank" style="color: #00d9f5;">No aniversário da morte de Kim Il-sung</a>, avô de Kim Jong-un e fundador da dinastia, por exemplo, é estritamente proibido sorrir, falar alto, beber álcool e dançar.</p>
+       </header>
+     </article>
+     <article>
+       <header>
+         <h3 style="color: #97df6b;">9. Falar com estrangeiros na rua.</h3><p style="color: #ffbd5b;">Os turistas que vistam o país são vigiados todo o tempo e recebem orientações específicas para que não conversem com os moradores. Mesmo estrangeiros que moram no país têm de colocar os filhos em escolas especiais e são proibidos de usar transporte público desacompanhados, para evitar o contato com as pessoas locais.</p>
+       </header>
+     </article>
+     <article>
+       <header>
+         <h3 style="color: #97df6b;">10. Ligar para o exterior.</h3><p style="color: #ffbd5b;"> <a href="https://veja.abril.com.br/economia/coreia-do-norte-bloqueia-chips-de-celular-com-acesso-ao-exterior/" target="_blank" style="color: #00d9f5;">Cartões telefônicos SIM (de celular) são bloqueados</a> para evitar qualquer contato com o exterior.</p>
+       </header>
+     </article>
+     <article>
+       <header>
+         <h3 style="color: #97df6b;">11. Pornografia.</h3><p style="color: #ffbd5b;">É considerado crime na Coreia do Norte possuir, consultar ou distribuir qualquer material com conteúdo adulto. A vigilância é tão grande que nem mesmo se fala sobre isso. “Não existe e é tão impensável que as pessoas nem sabem que isso existe”, diz Roberto Colin.</p>
+       </header>
+     </article>
+     <article>
+       <header>
+         <h3 style="color: #97df6b;">12. Ter o nome Kim Jong-un.</h3><p style="color: #ffbd5b;"><a href="https://veja.abril.com.br/mundo/ser-xara-de-kim-jong-un-e-proibido-na-coreia-do-norte/" target="_blank" style="color: #00d9f5;">Um decreto assinado em 2011</a> por Kim Jong-il, pai do atual ditador, estabeleceu que nenhuma pessoa na Coreia do Norte poderia ter o mesmo nome de seu filho.</p>
+       </header>
+     </article>
+     <article>
+       <header>
+         <h3 style="color: #97df6b;">13. Ter um parente criminoso.</h3><p style="color: #ffbd5b;">Quando uma pessoa comete um crime, toda a família é condenada. Pais, irmãos, filhos, avós e tios, todos são presos e sentenciados a trabalhos forçados – ou executados – para pagar pelo crime do familiar. “Essa é uma herança da época feudal que começa a diminuir, mas ainda existe”, diz Colin.</p>
+       </header>
+     </article>
+     <article>
+       <header>
+         <h3 style="color: #223cf5;">14. Passar em frente a uma imagem dos líderes sem fazer reverência.</h3><p style="color: #ffbd5b;">Estátuas e cartazes de membros da família Kim estão presentes em todas as ruas de Pyongyang e o regime observa de perto se todos cumprem os rituais de reverenciar a imagem dos líderes.</p>
+       </header>
+     </article>
+     <article>
+       <header>
+         <h3 style="color: #97df6b;">15. Dobrar uma imagem dos líderes.</h3><p style="color: #ffbd5b;">Os jornais, por exemplo, que são estatais e recheados de fotos de Kim Jong-un, não podem ser dobrados. “Em nenhuma hipótese se pode fazer isso, para eles é uma heresia”, explica o embaixador.</p>
+       </header>
+     </article>
+
+  </section>
+   <footer></footer>
+ </body>
+ </html>
