@@ -110,3 +110,37 @@
    <footer></footer>
  </body>
  </html>
+ Css
+ body{
+	background: #ccc;
+	background: url(core.jpg) center;
+	width: 95%;
+	max-width: 900px;
+	margin: auto;
+
+	font-family: sans-serif;
+	line-height: 1.5;
+}
+
+#title,  #info {
+ color: #ffe000;
+ margin: 50px;
+}
+
+.info{
+	font-size: 25px;
+	font-style: italic;
+	color: #ffe000;
+	margin: 50px;
+}
+
+.bord{
+	padding: 10px;
+	border: 5px solid #000;
+	margin: 50px;
+}
+
+.core.jpg{
+	text-align: center; 
+}
+
